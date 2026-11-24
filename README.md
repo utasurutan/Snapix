@@ -41,4 +41,20 @@ Event badges and IDs are usually static, disposable, and forgettable. We wanted 
 ! -
 
 ### Schematic
-! -
+The electronic schematic is divided into four sheets, covering the main components and their connections.
+
+**01. Power, Charging & Protection**
+
+![Power Management](Assets/Schematic/Cuplikan%20layar%202026-11-24%20230524.png)
+
+**02. ESP32-S3-WROOM-1**
+
+![ESP32-S3](Assets/Schematic/Cuplikan%20layar%202026-11-24%20230541.png)
+
+**03. OV2640 Camera**
+
+![Camera Module](Assets/Schematic/Cuplikan%20layar%202026-11-24%20230555.png)
+
+**04. TFT, microSD & Buttons**
+
+![TFT Display](Assets/Schematic/Cuplikan%20layar%202026-11-24%20230612.png)
