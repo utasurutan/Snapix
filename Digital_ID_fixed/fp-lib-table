@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Digital_ID") (type "KiCad") (uri "${KIPRJMOD}/Digital_ID.pretty") (options "") (descr "Project-local footprints matching the verified board"))
+	(lib (name "DM3BT-DSF-PEJS") (type "KiCad") (uri "${KIPRJMOD}/DM3BT-DSF-PEJS") (options "") (descr "Hirose DM3BT-DSF-PEJS symbol and footprint"))
+)

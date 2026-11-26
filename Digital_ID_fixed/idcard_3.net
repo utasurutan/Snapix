@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\User\Documents\Snapix\Digital_ID\idcard_3.kicad_sch</source>
+    <date>2026-11-24T14:19:13</date>
+    <tool>Eeschema 10.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>idcard_3.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cdfefc42-9be5-43cc-a225-7b8cab1d4263</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4591f460-3eed-4674-b10c-778554935d4d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dee45f86-561a-468b-b17a-911ea6351a53</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7775e7b-f609-452c-b4e5-a8b56a168b53</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C15">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0665eeb7-7867-4a01-ab97-384bd2deef9c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C16">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d57966b-5055-47f8-a8e2-cac37546738a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C17">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8213777-f32b-4d26-a7c8-ee1b6286a2ba</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J3">
+      <value>OV2640 FPC 24P</value>
+      <footprint>Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal</footprint>
+      <description>Konektor FPC 24 pin untuk OV2640</description>
+      <fields>
+        <field name="Footprint">Connector_FFC-FPC:Hirose_FH12-24S-0.5SH_1x24-1MP_P0.50mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Konektor FPC 24 pin untuk OV2640</field>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="FPC24-OV2640" description="Konektor FPC 24 pin untuk OV2640"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a876255c-203d-43a6-b8a4-092140ef21c9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="21"/>
+            <pin num="22"/>
+            <pin num="23"/>
+            <pin num="24"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R15">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b10b7b4a-c645-4abc-af9f-5a46c00d2eb6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R16">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>253d1b57-964a-432c-900a-d57036e6a898</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R17">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8395be70-c1c4-4c38-818d-8b1a6e86beba</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U6">
+      <value>XC6206P282MR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="XC6206" description="LDO 200 mA SOT-23 (VSS=1, VOUT=2, VIN=3)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14575df7-147b-4874-8d58-576b5bbeb469</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U7">
+      <value>XC6206P122MR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="XC6206" description="LDO 200 mA SOT-23 (VSS=1, VOUT=2, VIN=3)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_3.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7094eeee-830d-49c0-91f0-5eeac87b07ea</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="3"/>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Digital_ID-eagle-import" part="C0603">
+      <description>Kapasitor keramik</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Kapasitor keramik</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="FPC24-OV2640">
+      <description>Konektor FPC 24 pin untuk OV2640</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:FPC24-0.5</field>
+        <field name="Datasheet"/>
+        <field name="Description">Konektor FPC 24 pin untuk OV2640</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="bidirectional"/>
+        <pin num="2" name="AGND" type="power_in"/>
+        <pin num="3" name="SIO_D" type="bidirectional"/>
+        <pin num="4" name="AVDD" type="power_in"/>
+        <pin num="5" name="SIO_C" type="bidirectional"/>
+        <pin num="6" name="RESETB" type="bidirectional"/>
+        <pin num="7" name="VSYNC" type="bidirectional"/>
+        <pin num="8" name="PWDN" type="bidirectional"/>
+        <pin num="9" name="HREF" type="bidirectional"/>
+        <pin num="10" name="DVDD" type="power_in"/>
+        <pin num="11" name="DOVDD" type="power_in"/>
+        <pin num="12" name="Y9" type="bidirectional"/>
+        <pin num="13" name="XCLK" type="bidirectional"/>
+        <pin num="14" name="Y8" type="bidirectional"/>
+        <pin num="15" name="DGND" type="power_in"/>
+        <pin num="16" name="Y7" type="bidirectional"/>
+        <pin num="17" name="PCLK" type="bidirectional"/>
+        <pin num="18" name="Y6" type="bidirectional"/>
+        <pin num="19" name="Y2" type="bidirectional"/>
+        <pin num="20" name="Y5" type="bidirectional"/>
+        <pin num="21" name="Y3" type="bidirectional"/>
+        <pin num="22" name="Y4" type="bidirectional"/>
+        <pin num="23" name="Y1" type="bidirectional"/>
+        <pin num="24" name="Y0" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="R0603">
+      <description>Resistor</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="XC6206">
+      <description>LDO 200 mA SOT-23 (VSS=1, VOUT=2, VIN=3)</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:SOT23</field>
+        <field name="Datasheet"/>
+        <field name="Description">LDO 200 mA SOT-23 (VSS=1, VOUT=2, VIN=3)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="VOUT" type="power_in"/>
+        <pin num="3" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Digital_ID-eagle-import">
+      <uri>C:/Users/User/Documents/Snapix/Digital_ID/Digital_ID-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="1V2" class="Default">
+      <node ref="C13" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C17" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J3" pin="10" pinfunction="DVDD_10" pintype="power_in"/>
+      <node ref="U7" pin="2" pinfunction="VOUT_2" pintype="power_in"/>
+    </net>
+    <net code="2" name="2V8" class="Default">
+      <node ref="C12" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C16" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="AVDD_4" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="VOUT_2" pintype="power_in"/>
+    </net>
+    <net code="3" name="3V3" class="Default">
+      <node ref="C11" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C15" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J3" pin="11" pinfunction="DOVDD_11" pintype="power_in"/>
+      <node ref="R15" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R16" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R17" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="VIN_3" pintype="power_in"/>
+      <node ref="U7" pin="3" pinfunction="VIN_3" pintype="power_in"/>
+    </net>
+    <net code="4" name="CAM_HREF" class="Default">
+      <node ref="J3" pin="9" pinfunction="HREF_9" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="CAM_PCLK" class="Default">
+      <node ref="J3" pin="17" pinfunction="PCLK_17" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="CAM_RST" class="Default">
+      <node ref="C14" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="RESETB_6" pintype="bidirectional"/>
+      <node ref="R17" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="7" name="CAM_SIOC" class="Default">
+      <node ref="J3" pin="5" pinfunction="SIO_C_5" pintype="bidirectional"/>
+      <node ref="R16" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="8" name="CAM_SIOD" class="Default">
+      <node ref="J3" pin="3" pinfunction="SIO_D_3" pintype="bidirectional"/>
+      <node ref="R15" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="9" name="CAM_VSYNC" class="Default">
+      <node ref="J3" pin="7" pinfunction="VSYNC_7" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="CAM_XCLK" class="Default">
+      <node ref="J3" pin="13" pinfunction="XCLK_13" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="CAM_Y2" class="Default">
+      <node ref="J3" pin="19" pinfunction="Y2_19" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="CAM_Y3" class="Default">
+      <node ref="J3" pin="21" pinfunction="Y3_21" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="CAM_Y4" class="Default">
+      <node ref="J3" pin="22" pinfunction="Y4_22" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="CAM_Y5" class="Default">
+      <node ref="J3" pin="20" pinfunction="Y5_20" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="CAM_Y6" class="Default">
+      <node ref="J3" pin="18" pinfunction="Y6_18" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="CAM_Y7" class="Default">
+      <node ref="J3" pin="16" pinfunction="Y7_16" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="CAM_Y8" class="Default">
+      <node ref="J3" pin="14" pinfunction="Y8_14" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="CAM_Y9" class="Default">
+      <node ref="J3" pin="12" pinfunction="Y9_12" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="GND" class="Default">
+      <node ref="C11" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C12" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C13" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C14" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C15" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C16" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C17" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="J3" pin="15" pinfunction="DGND_15" pintype="power_in"/>
+      <node ref="J3" pin="2" pinfunction="AGND_2" pintype="power_in"/>
+      <node ref="J3" pin="8" pinfunction="PWDN_8" pintype="bidirectional"/>
+      <node ref="U6" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+      <node ref="U7" pin="1" pinfunction="VSS_1" pintype="power_in"/>
+    </net>
+    <net code="20" name="unconnected-(J3-NC-Pad1)" class="Default">
+      <node ref="J3" pin="1" pinfunction="NC_1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(J3-Y0-Pad24)" class="Default">
+      <node ref="J3" pin="24" pinfunction="Y0_24" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(J3-Y1-Pad23)" class="Default">
+      <node ref="J3" pin="23" pinfunction="Y1_23" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

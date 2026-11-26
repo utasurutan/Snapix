@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\User\Documents\Snapix\Digital_ID\idcard_4.kicad_sch</source>
+    <date>2026-11-24T14:19:22</date>
+    <tool>Eeschema 10.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>idcard_4.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C18">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0805" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74e874de-946a-46ac-8ed7-d16e73dd622d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C19">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0805" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5eb92a6f-6168-4bdc-ae60-6ab641e9b06c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C20">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9aa0b12f-89fd-4aab-8c00-32c5d8562234</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J4">
+      <value>TFT 2.8in ILI9341</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical</footprint>
+      <description>Header modul TFT SPI 14 pin (pin sentuh tidak dipakai)</description>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description">Header modul TFT SPI 14 pin (pin sentuh tidak dipakai)</field>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="TFT-ILI9341-14P" description="Header modul TFT SPI 14 pin (pin sentuh tidak dipakai)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>345f77f4-0790-4a4b-b15c-aaf3a564f917</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J5">
+      <value>DM3BT-DSF-PEJS</value>
+      <footprint>Connector_Card:microSD_HC_Hirose_DM3BT-DSF-PEJS</footprint>
+      <datasheet>https://snapeda.s3.us-east-1.amazonaws.com/datasheet/DM3BT-DSF-PEJS.pdf</datasheet>
+      <description>10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold</description>
+      <fields>
+        <field name="DATASHEET_URL">https://snapeda.s3.us-east-1.amazonaws.com/datasheet/DM3BT-DSF-PEJS.pdf</field>
+        <field name="MANUFACTURER">Hirose Connector</field>
+        <field name="MPN">DM3BT-DSF-PEJS</field>
+        <field name="SOURCE_URL">https://www.snapeda.com/parts/DM3BT-DSF-PEJS/Hirose/view-part/</field>
+        <field name="Footprint">Connector_Card:microSD_HC_Hirose_DM3BT-DSF-PEJS</field>
+        <field name="Datasheet">https://snapeda.s3.us-east-1.amazonaws.com/datasheet/DM3BT-DSF-PEJS.pdf</field>
+        <field name="Description">10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold</field>
+      </fields>
+      <libsource lib="DM3BT-DSF-PEJS" part="DM3BT-DSF-PEJS" description="10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold"/>
+      <property name="DATASHEET_URL" value="https://snapeda.s3.us-east-1.amazonaws.com/datasheet/DM3BT-DSF-PEJS.pdf"/>
+      <property name="MANUFACTURER" value="Hirose Connector"/>
+      <property name="MPN" value="DM3BT-DSF-PEJS"/>
+      <property name="SOURCE_URL" value="https://www.snapeda.com/parts/DM3BT-DSF-PEJS/Hirose/view-part/"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50870f78-e60c-48cc-b621-a8e94f7a06fa</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="SW-A"/>
+            <pin num="SW-B"/>
+            <pin num="S1"/>
+            <pin num="S2"/>
+            <pin num="S3"/>
+            <pin num="S4"/>
+            <pin num="6"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q3">
+      <value>AO3401</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="PMOS" description="P-MOSFET SOT-23 (G=1, S=2, D=3)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>deeeaf5f-9be2-47d4-83d2-8316dee297b8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q4">
+      <value>2N7002</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="NMOS" description="N-MOSFET SOT-23 (G=1, S=2, D=3)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59042005-3c95-4884-823a-600bcdead603</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ca5f8b2-78be-4c5d-9175-2817f12f98f9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R18">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b798007-c82c-4aec-80df-fd477fe9c9e1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da241310-09b3-4386-a8ed-444fe086438d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>763a0da8-25d1-4208-9590-ffd0e8428453</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2308723-dc9b-4801-b855-2e614d9a685a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R22">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>461f8edf-70b4-429a-95b1-ed805bbc57fb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f2352aa5-3233-4188-bc50-fba6d401a12d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0936fee-744e-4713-8aa7-8ccf5e2cd59b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW2">
+      <value>TOMBOL A</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG</footprint>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="TACT" description="Tombol taktil"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93078f9d-31b3-4540-bcf8-3343fb183b65</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW3">
+      <value>TOMBOL B</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG</footprint>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="TACT" description="Tombol taktil"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f89a254-bb89-48e4-8542-f914b27014ae</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW4">
+      <value>TOMBOL C</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG</footprint>
+      <fields>
+        <field name="Footprint">Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="TACT" description="Tombol taktil"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_4.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a2d487b-41cb-4b9c-a2f3-4ec57e19dcfd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="DM3BT-DSF-PEJS" part="DM3BT-DSF-PEJS">
+      <description>10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold</description>
+      <docs>https://snapeda.s3.us-east-1.amazonaws.com/datasheet/DM3BT-DSF-PEJS.pdf</docs>
+      <fields>
+        <field name="Reference">J5</field>
+        <field name="Value">DM3BT-DSF-PEJS</field>
+        <field name="Footprint">DM3BT-DSF-PEJS:HRS_DM3BT-DSF-PEJS</field>
+        <field name="Datasheet">https://snapeda.s3.us-east-1.amazonaws.com/datasheet/DM3BT-DSF-PEJS.pdf</field>
+        <field name="Description">10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold</field>
+        <field name="DATASHEET_URL">https://snapeda.s3.us-east-1.amazonaws.com/datasheet/DM3BT-DSF-PEJS.pdf</field>
+        <field name="MANUFACTURER">Hirose Connector</field>
+        <field name="MPN">DM3BT-DSF-PEJS</field>
+        <field name="SOURCE_URL">https://www.snapeda.com/parts/DM3BT-DSF-PEJS/Hirose/view-part/</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAT2" type="bidirectional"/>
+        <pin num="2" name="DAT3/CD" type="bidirectional"/>
+        <pin num="3" name="CMD" type="bidirectional"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="CLK" type="input"/>
+        <pin num="6" name="VSS" type="power_in"/>
+        <pin num="7" name="DAT0" type="bidirectional"/>
+        <pin num="8" name="DAT1" type="bidirectional"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+        <pin num="SW-A" name="SW-A" type="passive"/>
+        <pin num="SW-B" name="SW-B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="C0603">
+      <description>Kapasitor keramik</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Kapasitor keramik</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="C0805">
+      <description>Kapasitor keramik</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:0805</field>
+        <field name="Datasheet"/>
+        <field name="Description">Kapasitor keramik</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="NMOS">
+      <description>N-MOSFET SOT-23 (G=1, S=2, D=3)</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:SOT23</field>
+        <field name="Datasheet"/>
+        <field name="Description">N-MOSFET SOT-23 (G=1, S=2, D=3)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="PMOS">
+      <description>P-MOSFET SOT-23 (G=1, S=2, D=3)</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:SOT23</field>
+        <field name="Datasheet"/>
+        <field name="Description">P-MOSFET SOT-23 (G=1, S=2, D=3)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="R0603">
+      <description>Resistor</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="TACT">
+      <description>Tombol taktil</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:TACT6X6</field>
+        <field name="Datasheet"/>
+        <field name="Description">Tombol taktil</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+        <pin num="3" name="2" type="passive"/>
+        <pin num="4" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="TFT-ILI9341-14P">
+      <description>Header modul TFT SPI 14 pin (pin sentuh tidak dipakai)</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:HDR1X14</field>
+        <field name="Datasheet"/>
+        <field name="Description">Header modul TFT SPI 14 pin (pin sentuh tidak dipakai)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="CS" type="bidirectional"/>
+        <pin num="4" name="RESET" type="bidirectional"/>
+        <pin num="5" name="DC/RS" type="bidirectional"/>
+        <pin num="6" name="SDI" type="bidirectional"/>
+        <pin num="7" name="SCK" type="bidirectional"/>
+        <pin num="8" name="LED" type="bidirectional"/>
+        <pin num="9" name="SDO" type="bidirectional"/>
+        <pin num="10" name="T_CLK" type="bidirectional"/>
+        <pin num="11" name="T_CS" type="bidirectional"/>
+        <pin num="12" name="T_DIN" type="bidirectional"/>
+        <pin num="13" name="T_DO" type="bidirectional"/>
+        <pin num="14" name="T_IRQ" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="DM3BT-DSF-PEJS">
+      <uri>C:/Users/User/Downloads/DM3BT-DSF-PEJS/DM3BT-DSF-PEJS.kicad_sym</uri>
+    </library>
+    <library logical="Digital_ID-eagle-import">
+      <uri>C:/Users/User/Documents/Snapix/Digital_ID/Digital_ID-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3V3" class="Default">
+      <node ref="C18" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C19" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C20" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="VCC_1" pintype="power_in"/>
+      <node ref="J5" pin="4" pinfunction="VDD_4" pintype="power_in"/>
+      <node ref="Q3" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="R13" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R19" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R20" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R21" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R22" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R23" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R24" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="2" name="BL_G" class="Default">
+      <node ref="Q3" pin="1" pinfunction="G_1" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="D_3" pintype="passive"/>
+      <node ref="R13" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="3" name="BTN_A" class="Default">
+      <node ref="SW2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="1_2" pintype="passive"/>
+    </net>
+    <net code="4" name="BTN_B" class="Default">
+      <node ref="SW3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="1_2" pintype="passive"/>
+    </net>
+    <net code="5" name="BTN_C" class="Default">
+      <node ref="SW4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="1_2" pintype="passive"/>
+    </net>
+    <net code="6" name="GND" class="Default">
+      <node ref="C18" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C19" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C20" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="GND_2" pintype="power_in"/>
+      <node ref="J5" pin="6" pinfunction="VSS_6" pintype="power_in"/>
+      <node ref="J5" pin="S1" pinfunction="SHIELD_S1" pintype="passive"/>
+      <node ref="J5" pin="S2" pinfunction="SHIELD_S2" pintype="passive"/>
+      <node ref="J5" pin="S3" pinfunction="SHIELD_S3" pintype="passive"/>
+      <node ref="J5" pin="S4" pinfunction="SHIELD_S4" pintype="passive"/>
+      <node ref="J5" pin="SW-A" pinfunction="SW-A_SW-A" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="S_2" pintype="passive"/>
+      <node ref="R18" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="SW2" pin="3" pinfunction="2_3" pintype="passive"/>
+      <node ref="SW2" pin="4" pinfunction="2_4" pintype="passive"/>
+      <node ref="SW3" pin="3" pinfunction="2_3" pintype="passive"/>
+      <node ref="SW3" pin="4" pinfunction="2_4" pintype="passive"/>
+      <node ref="SW4" pin="3" pinfunction="2_3" pintype="passive"/>
+      <node ref="SW4" pin="4" pinfunction="2_4" pintype="passive"/>
+    </net>
+    <net code="7" name="SD_CARD_DETECT" class="Default">
+      <node ref="J5" pin="SW-B" pinfunction="SW-B_SW-B" pintype="passive"/>
+      <node ref="R24" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="8" name="SD_CLK" class="Default">
+      <node ref="J5" pin="5" pinfunction="CLK_5" pintype="input"/>
+    </net>
+    <net code="9" name="SD_CMD" class="Default">
+      <node ref="J5" pin="3" pinfunction="CMD_3" pintype="bidirectional"/>
+      <node ref="R21" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="10" name="SD_D0" class="Default">
+      <node ref="J5" pin="7" pinfunction="DAT0_7" pintype="bidirectional"/>
+      <node ref="R22" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="11" name="SD_D1" class="Default">
+      <node ref="J5" pin="8" pinfunction="DAT1_8" pintype="bidirectional"/>
+      <node ref="R23" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="12" name="SD_D2" class="Default">
+      <node ref="J5" pin="1" pinfunction="DAT2_1" pintype="bidirectional"/>
+      <node ref="R19" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="13" name="SD_D3" class="Default">
+      <node ref="J5" pin="2" pinfunction="DAT3/CD_2" pintype="bidirectional"/>
+      <node ref="R20" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="14" name="TFT_BL" class="Default">
+      <node ref="Q4" pin="1" pinfunction="G_1" pintype="passive"/>
+      <node ref="R18" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="15" name="TFT_CS" class="Default">
+      <node ref="J4" pin="3" pinfunction="CS_3" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="TFT_DC" class="Default">
+      <node ref="J4" pin="5" pinfunction="DC/RS_5" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="TFT_LED" class="Default">
+      <node ref="J4" pin="8" pinfunction="LED_8" pintype="bidirectional"/>
+      <node ref="Q3" pin="3" pinfunction="D_3" pintype="passive"/>
+    </net>
+    <net code="18" name="TFT_MOSI" class="Default">
+      <node ref="J4" pin="6" pinfunction="SDI_6" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="TFT_RST" class="Default">
+      <node ref="J4" pin="4" pinfunction="RESET_4" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="TFT_SCK" class="Default">
+      <node ref="J4" pin="7" pinfunction="SCK_7" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="unconnected-(J4-SDO-Pad9)" class="Default">
+      <node ref="J4" pin="9" pinfunction="SDO_9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(J4-T_CLK-Pad10)" class="Default">
+      <node ref="J4" pin="10" pinfunction="T_CLK_10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(J4-T_CS-Pad11)" class="Default">
+      <node ref="J4" pin="11" pinfunction="T_CS_11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(J4-T_DIN-Pad12)" class="Default">
+      <node ref="J4" pin="12" pinfunction="T_DIN_12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(J4-T_DO-Pad13)" class="Default">
+      <node ref="J4" pin="13" pinfunction="T_DO_13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(J4-T_IRQ-Pad14)" class="Default">
+      <node ref="J4" pin="14" pinfunction="T_IRQ_14" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>

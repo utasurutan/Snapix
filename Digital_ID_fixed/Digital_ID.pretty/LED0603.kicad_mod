@@ -1,0 +1,96 @@
+(footprint "LED0603"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "LED 0603, A = anoda, C = katoda")
+	(property "Reference" "REF**"
+		(at 0 -1.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e36cd87a-b95f-4a46-8ed2-86614e8b0623")
+		(effects
+			(font
+				(size 0.85 0.85)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
+	(property "Value" "LED0603"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c167b5fd-fd5a-4dbd-87c9-98494c7f5535")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ddeaddb9-0665-4ce8-9e02-fcf1b9c3ee84")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ac12a26-5249-4470-925b-7fde2df9ed0e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.1 -0.5)
+		(end 0.1 -0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "06920638-a93a-43e8-b77d-761b98f5c8e8")
+	)
+	(fp_line
+		(start -0.1 0.5)
+		(end 0.1 0.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "061ec718-724d-4b8e-99db-2ce044049650")
+	)
+	(pad "A" smd rect
+		(at -0.8 0)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "f2a2dcd6-1c5e-4ec4-aebe-fd99c34c44b5")
+	)
+	(pad "C" smd rect
+		(at 0.8 0)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(solder_paste_margin 0)
+		(thermal_bridge_angle 0)
+		(uuid "c344cd08-e6e1-49e6-8ef1-b25362f257ff")
+	)
+	(embedded_fonts no)
+)

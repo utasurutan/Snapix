@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\User\Documents\Snapix\Digital_ID\idcard_2.kicad_sch</source>
+    <date>2026-11-24T14:19:06</date>
+    <tool>Eeschema 10.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>idcard_2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3dfd904-3b1e-4cee-8966-c8ed53076531</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C9">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0805" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5388a377-46be-4b86-847e-b1bceb63c78d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Capacitor_SMD:C_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="C0603" description="Kapasitor keramik"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ef6a2f7-1592-40eb-92a1-1ba192e7852e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R12">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26bbeedb-7e96-4def-9834-b4dd666957d9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R14">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <fields>
+        <field name="Footprint">Resistor_SMD:R_0201_0603Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="R0603" description="Resistor"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d1ce8dbb-5959-4b79-bebd-7485297d98ba</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="SW5">
+      <value>RESET</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <fields>
+        <field name="Footprint">Button_Switch_THT:SW_PUSH_6mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="TACT" description="Tombol taktil"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2eea19a4-05d0-4578-bf38-163e5a1c609e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U5">
+      <value>ESP32-S3-WROOM-1-N16R8</value>
+      <footprint>RF_Module:ESP32-S3-WROOM-1</footprint>
+      <fields>
+        <field name="Footprint">RF_Module:ESP32-S3-WROOM-1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="Digital_ID-eagle-import" part="ESP32-S3-WROOM-1" description="ESP32-S3, 16 MB flash, 8 MB PSRAM oktal"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="idcard_2.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b210d8fd-c88d-4faa-8932-f467eab56d90</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="40"/>
+            <pin num="39"/>
+            <pin num="38"/>
+            <pin num="37"/>
+            <pin num="36"/>
+            <pin num="35"/>
+            <pin num="34"/>
+            <pin num="33"/>
+            <pin num="32"/>
+            <pin num="31"/>
+            <pin num="30"/>
+            <pin num="29"/>
+            <pin num="28"/>
+            <pin num="27"/>
+            <pin num="26"/>
+            <pin num="25"/>
+            <pin num="24"/>
+            <pin num="23"/>
+            <pin num="22"/>
+            <pin num="21"/>
+            <pin num="41"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Digital_ID-eagle-import" part="C0603">
+      <description>Kapasitor keramik</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Kapasitor keramik</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="C0805">
+      <description>Kapasitor keramik</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:0805</field>
+        <field name="Datasheet"/>
+        <field name="Description">Kapasitor keramik</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="ESP32-S3-WROOM-1">
+      <description>ESP32-S3, 16 MB flash, 8 MB PSRAM oktal</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:ESP32-S3-WROOM-1</field>
+        <field name="Datasheet"/>
+        <field name="Description">ESP32-S3, 16 MB flash, 8 MB PSRAM oktal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="EN" type="bidirectional"/>
+        <pin num="4" name="IO4" type="bidirectional"/>
+        <pin num="5" name="IO5" type="bidirectional"/>
+        <pin num="6" name="IO6" type="bidirectional"/>
+        <pin num="7" name="IO7" type="bidirectional"/>
+        <pin num="8" name="IO15" type="bidirectional"/>
+        <pin num="9" name="IO16" type="bidirectional"/>
+        <pin num="10" name="IO17" type="bidirectional"/>
+        <pin num="11" name="IO18" type="bidirectional"/>
+        <pin num="12" name="IO8" type="bidirectional"/>
+        <pin num="13" name="IO19" type="bidirectional"/>
+        <pin num="14" name="IO20" type="bidirectional"/>
+        <pin num="15" name="IO3" type="bidirectional"/>
+        <pin num="16" name="IO46" type="bidirectional"/>
+        <pin num="17" name="IO9" type="bidirectional"/>
+        <pin num="18" name="IO10" type="bidirectional"/>
+        <pin num="19" name="IO11" type="bidirectional"/>
+        <pin num="20" name="IO12" type="bidirectional"/>
+        <pin num="21" name="IO13" type="bidirectional"/>
+        <pin num="22" name="IO14" type="bidirectional"/>
+        <pin num="23" name="IO21" type="bidirectional"/>
+        <pin num="24" name="IO47" type="bidirectional"/>
+        <pin num="25" name="IO48" type="bidirectional"/>
+        <pin num="26" name="IO45" type="bidirectional"/>
+        <pin num="27" name="IO0" type="bidirectional"/>
+        <pin num="28" name="IO35" type="bidirectional"/>
+        <pin num="29" name="IO36" type="bidirectional"/>
+        <pin num="30" name="IO37" type="bidirectional"/>
+        <pin num="31" name="IO38" type="bidirectional"/>
+        <pin num="32" name="IO39" type="bidirectional"/>
+        <pin num="33" name="IO40" type="bidirectional"/>
+        <pin num="34" name="IO41" type="bidirectional"/>
+        <pin num="35" name="IO42" type="bidirectional"/>
+        <pin num="36" name="RXD0" type="bidirectional"/>
+        <pin num="37" name="TXD0" type="bidirectional"/>
+        <pin num="38" name="IO2" type="bidirectional"/>
+        <pin num="39" name="IO1" type="bidirectional"/>
+        <pin num="40" name="GND" type="power_in"/>
+        <pin num="41" name="EPAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="R0603">
+      <description>Resistor</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:0603</field>
+        <field name="Datasheet"/>
+        <field name="Description">Resistor</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Digital_ID-eagle-import" part="TACT">
+      <description>Tombol taktil</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value"/>
+        <field name="Footprint">Digital_ID:TACT6X6</field>
+        <field name="Datasheet"/>
+        <field name="Description">Tombol taktil</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="1" type="passive"/>
+        <pin num="3" name="2" type="passive"/>
+        <pin num="4" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Digital_ID-eagle-import">
+      <uri>C:/Users/User/Documents/Snapix/Digital_ID/Digital_ID-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3V3" class="Default">
+      <node ref="C10" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R12" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R14" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="3V3_2" pintype="power_in"/>
+    </net>
+    <net code="2" name="BAT_SENSE" class="Default">
+      <node ref="U5" pin="15" pinfunction="IO3_15" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="BTN_A" class="Default">
+      <node ref="U5" pin="34" pinfunction="IO41_34" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="BTN_B" class="Default">
+      <node ref="U5" pin="35" pinfunction="IO42_35" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="BTN_C" class="Default">
+      <node ref="R14" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U5" pin="27" pinfunction="IO0_27" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="CAM_HREF" class="Default">
+      <node ref="U5" pin="7" pinfunction="IO7_7" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="CAM_PCLK" class="Default">
+      <node ref="U5" pin="21" pinfunction="IO13_21" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="CAM_SIOC" class="Default">
+      <node ref="U5" pin="5" pinfunction="IO5_5" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="CAM_SIOD" class="Default">
+      <node ref="U5" pin="4" pinfunction="IO4_4" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="CAM_VSYNC" class="Default">
+      <node ref="U5" pin="6" pinfunction="IO6_6" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="CAM_XCLK" class="Default">
+      <node ref="U5" pin="8" pinfunction="IO15_8" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="CAM_Y2" class="Default">
+      <node ref="U5" pin="19" pinfunction="IO11_19" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="CAM_Y3" class="Default">
+      <node ref="U5" pin="17" pinfunction="IO9_17" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="CAM_Y4" class="Default">
+      <node ref="U5" pin="12" pinfunction="IO8_12" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="CAM_Y5" class="Default">
+      <node ref="U5" pin="18" pinfunction="IO10_18" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="CAM_Y6" class="Default">
+      <node ref="U5" pin="20" pinfunction="IO12_20" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="CAM_Y7" class="Default">
+      <node ref="U5" pin="11" pinfunction="IO18_11" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="CAM_Y8" class="Default">
+      <node ref="U5" pin="10" pinfunction="IO17_10" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="CAM_Y9" class="Default">
+      <node ref="U5" pin="9" pinfunction="IO16_9" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="EN" class="Default">
+      <node ref="C8" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R12" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="1_2" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="EN_3" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="GND" class="Default">
+      <node ref="C10" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="SW5" pin="3" pinfunction="2_3" pintype="passive"/>
+      <node ref="SW5" pin="4" pinfunction="2_4" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="GND_1" pintype="power_in"/>
+      <node ref="U5" pin="40" pinfunction="GND_40" pintype="power_in"/>
+      <node ref="U5" pin="41" pinfunction="EPAD_41" pintype="power_in"/>
+    </net>
+    <net code="22" name="SD_CARD_DETECT" class="Default">
+      <node ref="U5" pin="36" pinfunction="RXD0_36" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="SD_CLK" class="Default">
+      <node ref="U5" pin="32" pinfunction="IO39_32" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="SD_CMD" class="Default">
+      <node ref="U5" pin="31" pinfunction="IO38_31" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="SD_D0" class="Default">
+      <node ref="U5" pin="33" pinfunction="IO40_33" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="TFT_BL" class="Default">
+      <node ref="U5" pin="25" pinfunction="IO48_25" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="TFT_CS" class="Default">
+      <node ref="U5" pin="22" pinfunction="IO14_22" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="TFT_DC" class="Default">
+      <node ref="U5" pin="39" pinfunction="IO1_39" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="TFT_MOSI" class="Default">
+      <node ref="U5" pin="24" pinfunction="IO47_24" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="TFT_RST" class="Default">
+      <node ref="U5" pin="38" pinfunction="IO2_38" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="TFT_SCK" class="Default">
+      <node ref="U5" pin="23" pinfunction="IO21_23" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="USB_DN" class="Default">
+      <node ref="U5" pin="13" pinfunction="IO19_13" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="USB_DP" class="Default">
+      <node ref="U5" pin="14" pinfunction="IO20_14" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="unconnected-(U5-IO35-Pad28)" class="Default">
+      <node ref="U5" pin="28" pinfunction="IO35_28" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U5-IO36-Pad29)" class="Default">
+      <node ref="U5" pin="29" pinfunction="IO36_29" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U5-IO37-Pad30)" class="Default">
+      <node ref="U5" pin="30" pinfunction="IO37_30" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U5-IO45-Pad26)" class="Default">
+      <node ref="U5" pin="26" pinfunction="IO45_26" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U5-IO46-Pad16)" class="Default">
+      <node ref="U5" pin="16" pinfunction="IO46_16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U5-TXD0-Pad37)" class="Default">
+      <node ref="U5" pin="37" pinfunction="TXD0_37" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
